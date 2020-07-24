@@ -14,11 +14,11 @@ The purpose of this repository is to show how the npm package (express-basic-aut
 
 ## Sprint :athletic_shoe:
 
-| Done? | Component | Priority | Estimated Time | Actual Time |
-| ----- | --------- | :------: | :------------: | :---------: |
-|       |           |    H     |    30 mins     |   30mins    |
-|       |           |    M     |    30 mins     |   10mins    |
-|       |           |    M     |    30 mins     |   15 mins   |
+| Done? | Component                   | Priority | Estimated Time | Actual Time |
+| ----- | --------------------------- | :------: | :------------: | :---------: |
+|       | Read over the documentation |    H     |    30 mins     |   30mins    |
+|       | Look at two examples        |    M     |    30 mins     |   10mins    |
+|       |                             |    M     |    30 mins     |   15 mins   |
 
 ### Daily Stand Up :hourglass:
 
@@ -35,7 +35,8 @@ The purpose of this repository is to show how the npm package (express-basic-aut
 
 #### Credits :recycle:
 
-[dotenv]()
+[express-basic-auth](https://github.com/LionC/express-basic-auth)
+[Example 1: URL Shortener](https://github.com/gigantes88/urlShortner/tree/5b0f50d06415f51e6518d3b375abad0b1e1957c2)
 [handlebars]()
 
 #### Contributing :round_pushpin:
